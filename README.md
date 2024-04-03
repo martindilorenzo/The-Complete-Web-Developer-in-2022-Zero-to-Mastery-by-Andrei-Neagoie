@@ -4,6 +4,7 @@ En este repositorio se encuentran las practicas y los proyectos realizados duran
 Cada carpeta tiene su archivo README
 
 Se incluye el proyecto final del curso: face-recognition-brain. 
+
 Contiene 2 carpetas: 
-  face-recognition-brain-front-end 
-  face-recognition-brain-api
+  1. face-recognition-brain-front-end 
+  2. face-recognition-brain-api
